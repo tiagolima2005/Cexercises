@@ -1,0 +1,1 @@
+Repository with C exercises Chat GPT gave me
